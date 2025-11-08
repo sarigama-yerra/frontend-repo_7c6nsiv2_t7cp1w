@@ -11,7 +11,7 @@ export default function Hero() {
 
       <div className="relative mx-auto max-w-6xl px-4 md:px-6 py-16 flex flex-col gap-6">
         <span className="inline-flex w-fit items-center gap-2 rounded-full border border-black/10 bg-white/70 backdrop-blur px-3 py-1 text-xs text-gray-700">
-          Engineering Student • Building modern solutions
+          Lokesh Jena • Engineering Student
         </span>
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900">
           Crafting practical, elegant engineering projects

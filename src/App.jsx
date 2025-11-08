@@ -11,7 +11,7 @@ function App() {
         <Hero />
         <Projects />
         <Contact />
-        <footer className="py-10 text-center text-sm text-gray-600">© {new Date().getFullYear()} Built with passion and curiosity.</footer>
+        <footer className="py-10 text-center text-sm text-gray-600">© {new Date().getFullYear()} Lokesh Jena — Built with passion and curiosity.</footer>
       </main>
     </div>
   )
